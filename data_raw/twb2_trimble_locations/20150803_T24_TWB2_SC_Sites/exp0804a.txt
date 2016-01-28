@@ -1,0 +1,21 @@
+Export Version 5.40  5.40 Started.
+Using Export Setup: Sample ESRI Shapefile Setup
+The following files in C:\Users\Keeler Users\Documents\GNSS Projects\TWB2 will be exported:
+    TWB2 T24 ADDITION SC 20150803.cor
+
+Reading file TWB2 T24 ADDITION SC 20150803.cor
+File TWB2 T24 ADDITION SC 20150803.cor read successfully
+
+1 input file(s) read.
+460 position(s) read.
+A total of 6 feature(s) read or created.
+  6 point feature(s) read.
+6 feature(s) exported.
+3 output file(s) written to C:\Users\Keeler Users\Documents\GNSS Projects\TWB2\Export
+    c:\users\keeler users\documents\gnss projects\twb2\export\point_ge.shp
+    c:\users\keeler users\documents\gnss projects\twb2\export\point_ge.shx
+    c:\users\keeler users\documents\gnss projects\twb2\export\point_ge.dbf
+
+The file C:\Users\Keeler Users\Documents\GNSS Projects\TWB2\Export\TWB2 T24 ADDITION SC 20150803.inf contains information on the settings used.
+
+The file C:\ProgramData\Trimble\GPS Pathfinder Office\Config\\expfiles.txt contains a list of the files created.

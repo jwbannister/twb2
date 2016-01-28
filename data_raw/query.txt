@@ -1,0 +1,3672 @@
+{
+ "objectIdFieldName": "OBJECTID",
+ "globalIdFieldName": "GlobalID",
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 26911,
+  "latestWkid": 26911
+ },
+ "fields": [
+  {
+   "name": "Site_ID",
+   "alias": "Site_ID",
+   "type": "esriFieldTypeString",
+   "length": 50
+  },
+  {
+   "name": "SubPlot",
+   "alias": "SubPlot",
+   "type": "esriFieldTypeString",
+   "length": 50
+  },
+  {
+   "name": "Date_Time",
+   "alias": "Date_Time",
+   "type": "esriFieldTypeDate",
+   "length": 36
+  },
+  {
+   "name": "Monitoring_Initials",
+   "alias": "Monitoring_Initials",
+   "type": "esriFieldTypeString",
+   "length": 50
+  },
+  {
+   "name": "Ridge_Spacing",
+   "alias": "Ridge_Spacing",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "Furrom_Depth",
+   "alias": "Furrom_Depth",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "Interrow_Spacing",
+   "alias": "Interrow Spacing",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "Ridge_Height",
+   "alias": "Ridge_Height",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "F1_pnt5to3",
+   "alias": "F1_pnt5to3inches",
+   "type": "esriFieldTypeString",
+   "length": 50
+  },
+  {
+   "name": "F1_gt3",
+   "alias": "F1_gt3",
+   "type": "esriFieldTypeString",
+   "length": 50
+  },
+  {
+   "name": "F2_pnt5to3",
+   "alias": "F2_pnt5to3",
+   "type": "esriFieldTypeString",
+   "length": 50
+  },
+  {
+   "name": "F2_gt3",
+   "alias": "F2_gt3",
+   "type": "esriFieldTypeString",
+   "length": 50
+  },
+  {
+   "name": "F3_pnt5to3",
+   "alias": "F3_pnt5to3",
+   "type": "esriFieldTypeString",
+   "length": 50
+  },
+  {
+   "name": "F3_gt3",
+   "alias": "F3_gt3",
+   "type": "esriFieldTypeString",
+   "length": 50
+  },
+  {
+   "name": "GlobalID",
+   "alias": "GlobalID",
+   "type": "esriFieldTypeGlobalID",
+   "length": 38
+  },
+  {
+   "name": "created_user",
+   "alias": "created_user",
+   "type": "esriFieldTypeString",
+   "length": 255
+  },
+  {
+   "name": "created_date",
+   "alias": "created_date",
+   "type": "esriFieldTypeDate",
+   "length": 36
+  },
+  {
+   "name": "last_edited_user",
+   "alias": "last_edited_user",
+   "type": "esriFieldTypeString",
+   "length": 255
+  },
+  {
+   "name": "last_edited_date",
+   "alias": "last_edited_date",
+   "type": "esriFieldTypeDate",
+   "length": 36
+  },
+  {
+   "name": "Notes",
+   "alias": "Notes",
+   "type": "esriFieldTypeString",
+   "length": 200
+  },
+  {
+   "name": "OBJECTID",
+   "alias": "OBJECTID",
+   "type": "esriFieldTypeOID"
+  }
+ ],
+ "features": [
+  {
+   "geometry": {
+    "x": 421989.02400000021,
+    "y": 4038414.7692000009
+   },
+   "attributes": {
+    "Site_ID": "test2",
+    "SubPlot": "keeler",
+    "Date_Time": 1445626587000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 500,
+    "Furrom_Depth": 500,
+    "Interrow_Spacing": 500,
+    "Ridge_Height": 500,
+    "F1_pnt5to3": "10",
+    "F1_gt3": "10",
+    "F2_pnt5to3": "10",
+    "F2_gt3": "10",
+    "F3_pnt5to3": "10",
+    "F3_gt3": "10",
+    "GlobalID": "{CE1B7B5C-525B-45A9-AF41-962C3122D874}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1445626683000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1445626685000,
+    "Notes": null,
+    "OBJECTID": 4453
+   }
+  },
+  {
+   "geometry": {
+    "x": 422011.51779999956,
+    "y": 4038418.7704000007
+   },
+   "attributes": {
+    "Site_ID": "test1",
+    "SubPlot": "keeler",
+    "Date_Time": 1445626375000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 500,
+    "Furrom_Depth": 500,
+    "Interrow_Spacing": 500,
+    "Ridge_Height": 500,
+    "F1_pnt5to3": "10",
+    "F1_gt3": "10",
+    "F2_pnt5to3": "10",
+    "F2_gt3": "10",
+    "F3_pnt5to3": "10",
+    "F3_gt3": "10",
+    "GlobalID": "{246B440F-C8E7-4AB3-B6C0-653565B839BD}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1445626548000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1445626549000,
+    "Notes": null,
+    "OBJECTID": 4454
+   }
+  },
+  {
+   "geometry": {
+    "x": 421985.50820000004,
+    "y": 4038416.2763999999
+   },
+   "attributes": {
+    "Site_ID": "test3",
+    "SubPlot": "keeler",
+    "Date_Time": 1445626706000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 500,
+    "Furrom_Depth": 500,
+    "Interrow_Spacing": 500,
+    "Ridge_Height": 500,
+    "F1_pnt5to3": "10",
+    "F1_gt3": "10",
+    "F2_pnt5to3": "10",
+    "F2_gt3": "10",
+    "F3_pnt5to3": "10",
+    "F3_gt3": "10",
+    "GlobalID": "{1E622CC6-DF20-4AF0-8A94-1185EA9D82D2}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1445626752000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1445626753000,
+    "Notes": null,
+    "OBJECTID": 4455
+   }
+  },
+  {
+   "geometry": {
+    "x": 422027.7695000004,
+    "y": 4038383.3013000004
+   },
+   "attributes": {
+    "Site_ID": "test3",
+    "SubPlot": "keeler",
+    "Date_Time": 1445629435000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 500,
+    "Furrom_Depth": 500,
+    "Interrow_Spacing": 500,
+    "Ridge_Height": 500,
+    "F1_pnt5to3": "10",
+    "F1_gt3": "10",
+    "F2_pnt5to3": "10",
+    "F2_gt3": "10",
+    "F3_pnt5to3": "10",
+    "F3_gt3": "10",
+    "GlobalID": "{3556E7CC-AD50-45DC-B99C-9603D169BD45}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1445629488000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1445629489000,
+    "Notes": null,
+    "OBJECTID": 4456
+   }
+  },
+  {
+   "geometry": {
+    "x": 422039.95139999967,
+    "y": 4038383.1912999991
+   },
+   "attributes": {
+    "Site_ID": "test1",
+    "SubPlot": "keeler",
+    "Date_Time": 1445629251000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 500,
+    "Furrom_Depth": 500,
+    "Interrow_Spacing": 500,
+    "Ridge_Height": 500,
+    "F1_pnt5to3": "10",
+    "F1_gt3": "10",
+    "F2_pnt5to3": "10",
+    "F2_gt3": "10",
+    "F3_pnt5to3": "10",
+    "F3_gt3": "10",
+    "GlobalID": "{89EFD469-3841-4A31-B1C6-785E73E3084D}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1445629307000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1445629308000,
+    "Notes": null,
+    "OBJECTID": 4457
+   }
+  },
+  {
+   "geometry": {
+    "x": 422037.04700000025,
+    "y": 4038379.0019000005
+   },
+   "attributes": {
+    "Site_ID": "test2",
+    "SubPlot": "keeler",
+    "Date_Time": 1445629328000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 500,
+    "Furrom_Depth": 500,
+    "Interrow_Spacing": 500,
+    "Ridge_Height": 500,
+    "F1_pnt5to3": "10",
+    "F1_gt3": "10",
+    "F2_pnt5to3": "10",
+    "F2_gt3": "10",
+    "F3_pnt5to3": "10",
+    "F3_gt3": "10",
+    "GlobalID": "{CE982554-2E44-45F3-BDA9-EC377465E0D2}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1445629394000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1445629395000,
+    "Notes": null,
+    "OBJECTID": 4458
+   }
+  },
+  {
+   "geometry": {
+    "x": 410224.90620000008,
+    "y": 4020437.6816000007
+   },
+   "attributes": {
+    "Site_ID": "1600b",
+    "SubPlot": "t2-2",
+    "Date_Time": 1449167893000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 300,
+    "Furrom_Depth": 103,
+    "Interrow_Spacing": 375,
+    "Ridge_Height": 32,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "5",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "1",
+    "GlobalID": "{F669E022-7B89-43F5-80F8-7C8F47531945}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449168129000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449168619000,
+    "Notes": "30 cm water in furrow",
+    "OBJECTID": 4459
+   }
+  },
+  {
+   "geometry": {
+    "x": 410904.22059999965,
+    "y": 4020588.6576000005
+   },
+   "attributes": {
+    "Site_ID": "1602b",
+    "SubPlot": "t3sw",
+    "Date_Time": 1449174068000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 245,
+    "Furrom_Depth": 66,
+    "Interrow_Spacing": 520,
+    "Ridge_Height": 40,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "3",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "3",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "2",
+    "GlobalID": "{B687F533-4D63-4318-9AB4-A69FE89D1F93}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449174244000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449174245000,
+    "Notes": null,
+    "OBJECTID": 4460
+   }
+  },
+  {
+   "geometry": {
+    "x": 412980.43120000046,
+    "y": 4020826.9653999992
+   },
+   "attributes": {
+    "Site_ID": "1602b",
+    "SubPlot": null,
+    "Date_Time": 1449175767000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 205,
+    "Furrom_Depth": 84,
+    "Interrow_Spacing": 474,
+    "Ridge_Height": 47,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{49EEF65C-E596-4FD9-9DB6-EACB12D9CFE7}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449175939000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449175940000,
+    "Notes": "12 cm water in furrow",
+    "OBJECTID": 4461
+   }
+  },
+  {
+   "geometry": {
+    "x": 410294.04710000008,
+    "y": 4020439.4074000008
+   },
+   "attributes": {
+    "Site_ID": "1600a",
+    "SubPlot": "t2-2",
+    "Date_Time": 1449167364000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 325,
+    "Furrom_Depth": 90,
+    "Interrow_Spacing": 330,
+    "Ridge_Height": 39,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "4",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "5",
+    "GlobalID": "{F10F55D6-C600-47AA-A5AE-DD2E20D00828}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449167629000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449168636000,
+    "Notes": ",25cm water in furrow",
+    "OBJECTID": 4462
+   }
+  },
+  {
+   "geometry": {
+    "x": 413031.31070000026,
+    "y": 4020861.0677000005
+   },
+   "attributes": {
+    "Site_ID": "1609a",
+    "SubPlot": null,
+    "Date_Time": 1449175380000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 248,
+    "Furrom_Depth": 88,
+    "Interrow_Spacing": 445,
+    "Ridge_Height": 39,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{ADDE5411-198F-4FF1-B8C3-6792508A469E}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449175557000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449175558000,
+    "Notes": "10 cm water in furrow",
+    "OBJECTID": 4463
+   }
+  },
+  {
+   "geometry": {
+    "x": 410980.43530000001,
+    "y": 4020107.2952999994
+   },
+   "attributes": {
+    "Site_ID": "1601b",
+    "SubPlot": "t3sw",
+    "Date_Time": 1449170496000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 290,
+    "Furrom_Depth": 92,
+    "Interrow_Spacing": 415,
+    "Ridge_Height": 35,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "7",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "6",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "7",
+    "GlobalID": "{B6158512-2E57-40B2-A629-AC41BDD11030}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449170654000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449170655000,
+    "Notes": null,
+    "OBJECTID": 4464
+   }
+  },
+  {
+   "geometry": {
+    "x": 410839.91309999954,
+    "y": 4020576.6710000001
+   },
+   "attributes": {
+    "Site_ID": null,
+    "SubPlot": null,
+    "Date_Time": 1449172539000,
+    "Monitoring_Initials": null,
+    "Ridge_Spacing": 320,
+    "Furrom_Depth": 96,
+    "Interrow_Spacing": 455,
+    "Ridge_Height": 47,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "2",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "4",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "6",
+    "GlobalID": "{F7126AC6-6C99-43C2-8ADB-EA6D52172D3F}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449172748000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449172750000,
+    "Notes": null,
+    "OBJECTID": 4465
+   }
+  },
+  {
+   "geometry": {
+    "x": 410901.07110000029,
+    "y": 4020089.3610999994
+   },
+   "attributes": {
+    "Site_ID": "1601a",
+    "SubPlot": "t3sw",
+    "Date_Time": 1449169533000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 315,
+    "Furrom_Depth": 96,
+    "Interrow_Spacing": 485,
+    "Ridge_Height": 40,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "4",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "4",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{69541D5F-AA8D-4CA4-A2BB-6039E9E335E4}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449170075000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449170076000,
+    "Notes": null,
+    "OBJECTID": 4466
+   }
+  },
+  {
+   "geometry": {
+    "x": 411659.22319999989,
+    "y": 4022026.727
+   },
+   "attributes": {
+    "Site_ID": "1614A",
+    "SubPlot": "T2-4",
+    "Date_Time": 1449173366000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 325,
+    "Furrom_Depth": 90,
+    "Interrow_Spacing": 354,
+    "Ridge_Height": 33,
+    "F1_pnt5to3": "2",
+    "F1_gt3": "9",
+    "F2_pnt5to3": "2",
+    "F2_gt3": "9",
+    "F3_pnt5to3": "2",
+    "F3_gt3": "9",
+    "GlobalID": "{114CE177-FC48-4E01-99B9-1ED25A2A702F}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449173893000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449173896000,
+    "Notes": null,
+    "OBJECTID": 4467
+   }
+  },
+  {
+   "geometry": {
+    "x": 412776.90299999993,
+    "y": 4022056.3023000006
+   },
+   "attributes": {
+    "Site_ID": "1617B",
+    "SubPlot": null,
+    "Date_Time": 1449170172000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 280,
+    "Furrom_Depth": 87,
+    "Interrow_Spacing": 383,
+    "Ridge_Height": 43,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "0",
+    "GlobalID": "{F8DB5FB1-A91C-4ED2-A107-5E4D7C5C3B62}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449170345000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449170349000,
+    "Notes": null,
+    "OBJECTID": 4468
+   }
+  },
+  {
+   "geometry": {
+    "x": 412824.69790000003,
+    "y": 4022025.2032999992
+   },
+   "attributes": {
+    "Site_ID": "1617A",
+    "SubPlot": null,
+    "Date_Time": 1449169800000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 275,
+    "Furrom_Depth": 95,
+    "Interrow_Spacing": 487,
+    "Ridge_Height": 60,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "1",
+    "GlobalID": "{945C8B38-9CF2-4D6C-A6A2-DC4525D951DA}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449169973000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449169976000,
+    "Notes": null,
+    "OBJECTID": 4469
+   }
+  },
+  {
+   "geometry": {
+    "x": 411607.24700000044,
+    "y": 4022033.1809999999
+   },
+   "attributes": {
+    "Site_ID": "1614B",
+    "SubPlot": "T2-4",
+    "Date_Time": 1449174185000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 305,
+    "Furrom_Depth": 96,
+    "Interrow_Spacing": 325,
+    "Ridge_Height": 41,
+    "F1_pnt5to3": "3",
+    "F1_gt3": "8",
+    "F2_pnt5to3": "3",
+    "F2_gt3": "8",
+    "F3_pnt5to3": "3",
+    "F3_gt3": "9",
+    "GlobalID": "{83719155-C2F1-44EB-B5CC-B55DF55EE919}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449174352000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449174354000,
+    "Notes": null,
+    "OBJECTID": 4470
+   }
+  },
+  {
+   "geometry": {
+    "x": 412727.11149999965,
+    "y": 4022049.4811000004
+   },
+   "attributes": {
+    "Site_ID": "1617C",
+    "SubPlot": null,
+    "Date_Time": 1449170543000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 299,
+    "Furrom_Depth": 77,
+    "Interrow_Spacing": 347,
+    "Ridge_Height": 37,
+    "F1_pnt5to3": "2",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "2",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "0",
+    "GlobalID": "{437A48BE-C385-437E-AB52-12B8AF11B14B}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449170856000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449170859000,
+    "Notes": null,
+    "OBJECTID": 4471
+   }
+  },
+  {
+   "geometry": {
+    "x": 413826.89350000024,
+    "y": 4022180.5979999993
+   },
+   "attributes": {
+    "Site_ID": "1620A",
+    "SubPlot": "T5-4",
+    "Date_Time": 1449165659000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 250,
+    "Furrom_Depth": 87,
+    "Interrow_Spacing": 577,
+    "Ridge_Height": 42,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "2",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "2",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "3",
+    "GlobalID": "{406AD32C-C92A-4FDD-9893-CC97D6C7EA58}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449166294000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449166297000,
+    "Notes": null,
+    "OBJECTID": 4472
+   }
+  },
+  {
+   "geometry": {
+    "x": 413866.33750000037,
+    "y": 4021967.9846999999
+   },
+   "attributes": {
+    "Site_ID": "1621A",
+    "SubPlot": "T5-4",
+    "Date_Time": 1449168792000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 212,
+    "Furrom_Depth": 78,
+    "Interrow_Spacing": 67,
+    "Ridge_Height": 25,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{8708742B-F26E-4F57-916E-BAF5F737A5B1}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449168988000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449168991000,
+    "Notes": null,
+    "OBJECTID": 4473
+   }
+  },
+  {
+   "geometry": {
+    "x": 412113.83189999964,
+    "y": 4022377.3895999994
+   },
+   "attributes": {
+    "Site_ID": "1615B",
+    "SubPlot": null,
+    "Date_Time": 1449172276000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 307,
+    "Furrom_Depth": 91,
+    "Interrow_Spacing": 374,
+    "Ridge_Height": 41,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "2",
+    "F3_gt3": "3",
+    "GlobalID": "{35F892D4-310A-486E-9C75-D27F9F32C701}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449172602000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449172604000,
+    "Notes": null,
+    "OBJECTID": 4474
+   }
+  },
+  {
+   "geometry": {
+    "x": 413693.83160000015,
+    "y": 4022157.4035999998
+   },
+   "attributes": {
+    "Site_ID": "1619A",
+    "SubPlot": "T5-4",
+    "Date_Time": 1449166746000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 165,
+    "Furrom_Depth": 61,
+    "Interrow_Spacing": 662,
+    "Ridge_Height": 23,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "1",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "0",
+    "GlobalID": "{42B8F99B-8F3A-497A-8CE8-06203C794CFA}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449167002000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449167005000,
+    "Notes": null,
+    "OBJECTID": 4475
+   }
+  },
+  {
+   "geometry": {
+    "x": 412189.45019999985,
+    "y": 4022355.6567000002
+   },
+   "attributes": {
+    "Site_ID": "1615A",
+    "SubPlot": null,
+    "Date_Time": 1449171779000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 293,
+    "Furrom_Depth": 97,
+    "Interrow_Spacing": 394,
+    "Ridge_Height": 52,
+    "F1_pnt5to3": "2",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "0",
+    "GlobalID": "{0C6137F9-4C08-41C3-B295-400AB30A0ACD}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449172031000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449172034000,
+    "Notes": null,
+    "OBJECTID": 4476
+   }
+  },
+  {
+   "geometry": {
+    "x": 413683.30460000038,
+    "y": 4021947.2836000007
+   },
+   "attributes": {
+    "Site_ID": "1618A",
+    "SubPlot": "T5-4",
+    "Date_Time": 1449168308000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 182,
+    "Furrom_Depth": 71,
+    "Interrow_Spacing": 675,
+    "Ridge_Height": 36,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{7E236255-CFC0-42B5-83E5-D8D4EE6178D3}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449168514000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449168516000,
+    "Notes": null,
+    "OBJECTID": 4477
+   }
+  },
+  {
+   "geometry": {
+    "x": 412286.74990000017,
+    "y": 4021176.8800000008
+   },
+   "attributes": {
+    "Site_ID": "1606A",
+    "SubPlot": "T3SE",
+    "Date_Time": 1449261637000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 288,
+    "Furrom_Depth": 102,
+    "Interrow_Spacing": 401,
+    "Ridge_Height": 51,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "8",
+    "F2_pnt5to3": "2",
+    "F2_gt3": "8",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "9",
+    "GlobalID": "{B298F7D9-1F8E-4CA9-9833-1CBE9771BF88}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449261820000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449261822000,
+    "Notes": null,
+    "OBJECTID": 4478
+   }
+  },
+  {
+   "geometry": {
+    "x": 412880.83110000007,
+    "y": 4021358.4638999999
+   },
+   "attributes": {
+    "Site_ID": "1608C",
+    "SubPlot": "T3SE",
+    "Date_Time": 1449266996000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 270,
+    "Furrom_Depth": 73,
+    "Interrow_Spacing": 300,
+    "Ridge_Height": 28,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "0",
+    "GlobalID": "{62290364-ABB3-438F-A359-D43C9FAE5BCD}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449267168000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449267170000,
+    "Notes": null,
+    "OBJECTID": 4479
+   }
+  },
+  {
+   "geometry": {
+    "x": 412377.83050000016,
+    "y": 4021187.9158999994
+   },
+   "attributes": {
+    "Site_ID": "1606C",
+    "SubPlot": "T3Se",
+    "Date_Time": 1449262293000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 280,
+    "Furrom_Depth": 100,
+    "Interrow_Spacing": 304,
+    "Ridge_Height": 50,
+    "F1_pnt5to3": "3",
+    "F1_gt3": "8",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "10",
+    "F3_pnt5to3": "4",
+    "F3_gt3": "7",
+    "GlobalID": "{3005DCB7-AD44-4A7D-BEA4-318CB9C889DF}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449262471000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449262472000,
+    "Notes": null,
+    "OBJECTID": 4480
+   }
+  },
+  {
+   "geometry": {
+    "x": 413218.41750000045,
+    "y": 4021430.2600999996
+   },
+   "attributes": {
+    "Site_ID": "1608B",
+    "SubPlot": "T3SE",
+    "Date_Time": 1449266677000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 255,
+    "Furrom_Depth": 72,
+    "Interrow_Spacing": 320,
+    "Ridge_Height": 40,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "1",
+    "GlobalID": "{56EB495D-DAF8-42B7-AE19-718A0527BB55}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449266821000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449266822000,
+    "Notes": null,
+    "OBJECTID": 4481
+   }
+  },
+  {
+   "geometry": {
+    "x": 411109.81259999983,
+    "y": 4021905.3736000005
+   },
+   "attributes": {
+    "Site_ID": "1612A",
+    "SubPlot": "T2-3",
+    "Date_Time": 1449255727000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 305,
+    "Furrom_Depth": 100,
+    "Interrow_Spacing": 346,
+    "Ridge_Height": 50,
+    "F1_pnt5to3": "4",
+    "F1_gt3": "7",
+    "F2_pnt5to3": "2",
+    "F2_gt3": "8",
+    "F3_pnt5to3": "2",
+    "F3_gt3": "3",
+    "GlobalID": "{93E66A49-366F-4F15-B6C8-19CA6F924E28}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449255956000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449255957000,
+    "Notes": null,
+    "OBJECTID": 4482
+   }
+  },
+  {
+   "geometry": {
+    "x": 412123.15780000016,
+    "y": 4020688.2590999994
+   },
+   "attributes": {
+    "Site_ID": "1605B",
+    "SubPlot": "T3SW",
+    "Date_Time": 1449265008000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 312,
+    "Furrom_Depth": 99,
+    "Interrow_Spacing": 430,
+    "Ridge_Height": 40,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "10",
+    "F2_pnt5to3": "3",
+    "F2_gt3": "9",
+    "F3_pnt5to3": "2",
+    "F3_gt3": "9",
+    "GlobalID": "{A9D1958E-828B-427A-9843-04B178AEA535}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449265211000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449265213000,
+    "Notes": null,
+    "OBJECTID": 4483
+   }
+  },
+  {
+   "geometry": {
+    "x": 411557.85259999987,
+    "y": 4021771.7749000005
+   },
+   "attributes": {
+    "Site_ID": "1613A",
+    "SubPlot": "T2-3",
+    "Date_Time": 1449254737000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 289,
+    "Furrom_Depth": 87,
+    "Interrow_Spacing": 440,
+    "Ridge_Height": 53,
+    "F1_pnt5to3": "3",
+    "F1_gt3": "6",
+    "F2_pnt5to3": "3",
+    "F2_gt3": "5",
+    "F3_pnt5to3": "5",
+    "F3_gt3": "4",
+    "GlobalID": "{916F9ADA-6B8E-4241-B976-E9897D3C852B}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449254961000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449254962000,
+    "Notes": null,
+    "OBJECTID": 4484
+   }
+  },
+  {
+   "geometry": {
+    "x": 412333.46700000018,
+    "y": 4021935.0798000004
+   },
+   "attributes": {
+    "Site_ID": "1616A",
+    "SubPlot": "T3NE",
+    "Date_Time": 1449252869000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 283,
+    "Furrom_Depth": 89,
+    "Interrow_Spacing": 470,
+    "Ridge_Height": 44,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "0",
+    "GlobalID": "{57C0DAA7-8706-44A5-9A3D-0CFF2F9532F6}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449253059000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449253060000,
+    "Notes": null,
+    "OBJECTID": 4485
+   }
+  },
+  {
+   "geometry": {
+    "x": 412558.94600000046,
+    "y": 4021534.4079999998
+   },
+   "attributes": {
+    "Site_ID": "1607B",
+    "SubPlot": "T3SE",
+    "Date_Time": 1449259535000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 305,
+    "Furrom_Depth": 97,
+    "Interrow_Spacing": 325,
+    "Ridge_Height": 58,
+    "F1_pnt5to3": "3",
+    "F1_gt3": "8",
+    "F2_pnt5to3": "4",
+    "F2_gt3": "7",
+    "F3_pnt5to3": "4",
+    "F3_gt3": "7",
+    "GlobalID": "{455455F7-708B-4C15-BFE0-F79247A9D98E}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449259786000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449259787000,
+    "Notes": null,
+    "OBJECTID": 4486
+   }
+  },
+  {
+   "geometry": {
+    "x": 412447.60240000021,
+    "y": 4021355.4332999997
+   },
+   "attributes": {
+    "Site_ID": "1604A",
+    "SubPlot": "T3SW",
+    "Date_Time": 1449260280000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 331,
+    "Furrom_Depth": 120,
+    "Interrow_Spacing": 310,
+    "Ridge_Height": 60,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "10",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "8",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "7",
+    "GlobalID": "{5C8B2FF6-C184-4E97-B2A6-73D1DBDDA2D8}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449260680000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449260682000,
+    "Notes": null,
+    "OBJECTID": 4487
+   }
+  },
+  {
+   "geometry": {
+    "x": 412952.60869999975,
+    "y": 4021364.3999000005
+   },
+   "attributes": {
+    "Site_ID": "1608A",
+    "SubPlot": "T3SE",
+    "Date_Time": 1449266356000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 262,
+    "Furrom_Depth": 79,
+    "Interrow_Spacing": 353,
+    "Ridge_Height": 32,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "0",
+    "GlobalID": "{7B4FF0F2-3C50-410B-AF60-D1786AD038BB}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449266540000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449266541000,
+    "Notes": null,
+    "OBJECTID": 4488
+   }
+  },
+  {
+   "geometry": {
+    "x": 412267.06709999964,
+    "y": 4021919.1104000006
+   },
+   "attributes": {
+    "Site_ID": "1616B",
+    "SubPlot": "T3NE",
+    "Date_Time": 1449253311000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 257,
+    "Furrom_Depth": 83,
+    "Interrow_Spacing": 450,
+    "Ridge_Height": 42,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "0",
+    "GlobalID": "{E300E88A-1834-49DC-B2F0-4391CFAC209B}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449253553000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449253554000,
+    "Notes": null,
+    "OBJECTID": 4489
+   }
+  },
+  {
+   "geometry": {
+    "x": 412379.16229999997,
+    "y": 4021048.8336999994
+   },
+   "attributes": {
+    "Site_ID": "1606B",
+    "SubPlot": "T3SE",
+    "Date_Time": 1449261972000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 287,
+    "Furrom_Depth": 71,
+    "Interrow_Spacing": 317,
+    "Ridge_Height": 34,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "9",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "10",
+    "F3_pnt5to3": "2",
+    "F3_gt3": "9",
+    "GlobalID": "{54C0E204-DF84-4396-A6A6-C8EFD229C877}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449262124000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449262125000,
+    "Notes": null,
+    "OBJECTID": 4490
+   }
+  },
+  {
+   "geometry": {
+    "x": 412219.23220000044,
+    "y": 4021334.7279000003
+   },
+   "attributes": {
+    "Site_ID": "1604B",
+    "SubPlot": "T3SW",
+    "Date_Time": 1449260950000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 312,
+    "Furrom_Depth": 106,
+    "Interrow_Spacing": 394,
+    "Ridge_Height": 62,
+    "F1_pnt5to3": "3",
+    "F1_gt3": "8",
+    "F2_pnt5to3": "2",
+    "F2_gt3": "9",
+    "F3_pnt5to3": "3",
+    "F3_gt3": "8",
+    "GlobalID": "{D5CB27F3-CC2A-4109-B979-2B8C4AE602CA}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449261111000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449261113000,
+    "Notes": null,
+    "OBJECTID": 4491
+   }
+  },
+  {
+   "geometry": {
+    "x": 411082.59159999993,
+    "y": 4021289.7277000006
+   },
+   "attributes": {
+    "Site_ID": "1603A",
+    "SubPlot": "T3SW",
+    "Date_Time": 1449257312000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 337,
+    "Furrom_Depth": 114,
+    "Interrow_Spacing": 388,
+    "Ridge_Height": 75,
+    "F1_pnt5to3": "2",
+    "F1_gt3": "9",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "9",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "4",
+    "GlobalID": "{2166FC85-EDB7-46D8-B108-C6788F462AB8}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449257531000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449257532000,
+    "Notes": null,
+    "OBJECTID": 4492
+   }
+  },
+  {
+   "geometry": {
+    "x": 411713.49619999994,
+    "y": 4020413.5395999998
+   },
+   "attributes": {
+    "Site_ID": "1605A",
+    "SubPlot": "TSW",
+    "Date_Time": 1449264677000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 315,
+    "Furrom_Depth": 88,
+    "Interrow_Spacing": 336,
+    "Ridge_Height": 42,
+    "F1_pnt5to3": "7",
+    "F1_gt3": "4",
+    "F2_pnt5to3": "4",
+    "F2_gt3": "5",
+    "F3_pnt5to3": "4",
+    "F3_gt3": "7",
+    "GlobalID": "{023915E9-CAEF-4E15-BA60-F2EA3F5A2A46}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449264866000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449264867000,
+    "Notes": null,
+    "OBJECTID": 4493
+   }
+  },
+  {
+   "geometry": {
+    "x": 411412.1325000003,
+    "y": 4022035.4605999999
+   },
+   "attributes": {
+    "Site_ID": "1612B",
+    "SubPlot": "T2-3",
+    "Date_Time": 1449256169000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 310,
+    "Furrom_Depth": 95,
+    "Interrow_Spacing": 378,
+    "Ridge_Height": 46,
+    "F1_pnt5to3": "4",
+    "F1_gt3": "7",
+    "F2_pnt5to3": "6",
+    "F2_gt3": "4",
+    "F3_pnt5to3": "5",
+    "F3_gt3": "6",
+    "GlobalID": "{2226DD3C-AB60-4832-9372-F05A28948ACF}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449256380000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449256382000,
+    "Notes": null,
+    "OBJECTID": 4494
+   }
+  },
+  {
+   "geometry": {
+    "x": 412794.20920000039,
+    "y": 4022220.1568999998
+   },
+   "attributes": {
+    "Site_ID": null,
+    "SubPlot": null,
+    "Date_Time": null,
+    "Monitoring_Initials": null,
+    "Ridge_Spacing": null,
+    "Furrom_Depth": null,
+    "Interrow_Spacing": null,
+    "Ridge_Height": null,
+    "F1_pnt5to3": null,
+    "F1_gt3": null,
+    "F2_pnt5to3": null,
+    "F2_gt3": null,
+    "F3_pnt5to3": null,
+    "F3_gt3": null,
+    "GlobalID": "{3DC8D835-3688-474C-A4F9-19C1116E9FAE}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449253105000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449253105000,
+    "Notes": null,
+    "OBJECTID": 4495
+   }
+  },
+  {
+   "geometry": {
+    "x": 411915.30260000005,
+    "y": 4021324.9450000003
+   },
+   "attributes": {
+    "Site_ID": "1607A",
+    "SubPlot": "T3SE",
+    "Date_Time": 1449259171000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 309,
+    "Furrom_Depth": 107,
+    "Interrow_Spacing": 305,
+    "Ridge_Height": 59,
+    "F1_pnt5to3": "5",
+    "F1_gt3": "5",
+    "F2_pnt5to3": "3",
+    "F2_gt3": "7",
+    "F3_pnt5to3": "5",
+    "F3_gt3": "6",
+    "GlobalID": "{7B3F6658-176F-48C6-8DD7-A7AD1744D05B}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449259379000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449259380000,
+    "Notes": null,
+    "OBJECTID": 4496
+   }
+  },
+  {
+   "geometry": {
+    "x": 411604.26130000036,
+    "y": 4021781.0645000003
+   },
+   "attributes": {
+    "Site_ID": "1613B",
+    "SubPlot": "T2-3",
+    "Date_Time": 1449254374000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 303,
+    "Furrom_Depth": 91,
+    "Interrow_Spacing": 409,
+    "Ridge_Height": 48,
+    "F1_pnt5to3": "3",
+    "F1_gt3": "6",
+    "F2_pnt5to3": "2",
+    "F2_gt3": "6",
+    "F3_pnt5to3": "3",
+    "F3_gt3": "6",
+    "GlobalID": "{693F7347-8D91-48C5-8797-2BC8702F1BCA}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449254579000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449254580000,
+    "Notes": null,
+    "OBJECTID": 4497
+   }
+  },
+  {
+   "geometry": {
+    "x": 411172.13760000002,
+    "y": 4021303.7872000001
+   },
+   "attributes": {
+    "Site_ID": "1603B",
+    "SubPlot": "T3SW",
+    "Date_Time": 1449257869000,
+    "Monitoring_Initials": "JL",
+    "Ridge_Spacing": 320,
+    "Furrom_Depth": 107,
+    "Interrow_Spacing": 310,
+    "Ridge_Height": 46,
+    "F1_pnt5to3": "2",
+    "F1_gt3": "8",
+    "F2_pnt5to3": "3",
+    "F2_gt3": "2",
+    "F3_pnt5to3": "6",
+    "F3_gt3": "4",
+    "GlobalID": "{E532933A-7FF5-496B-AE1F-5B299E6C6DDE}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449258102000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449258104000,
+    "Notes": null,
+    "OBJECTID": 4498
+   }
+  },
+  {
+   "geometry": {
+    "x": 417022.29959999956,
+    "y": 4027263.9236999992
+   },
+   "attributes": {
+    "Site_ID": "1639b",
+    "SubPlot": "t12",
+    "Date_Time": 1449690430000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 355,
+    "Furrom_Depth": 88,
+    "Interrow_Spacing": 400,
+    "Ridge_Height": 33,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "3",
+    "GlobalID": "{EC569FF6-F243-49C1-82F5-78158C218A2F}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449690648000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449690650000,
+    "Notes": null,
+    "OBJECTID": 4520
+   }
+  },
+  {
+   "geometry": {
+    "x": 416544.66750000045,
+    "y": 4027059.6194000002
+   },
+   "attributes": {
+    "Site_ID": "1637a",
+    "SubPlot": "t12",
+    "Date_Time": 1449689652000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 360,
+    "Furrom_Depth": 104,
+    "Interrow_Spacing": 525,
+    "Ridge_Height": 37,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "1",
+    "GlobalID": "{FFEA1F72-A28C-42B7-8707-FB3B3D2DCE6E}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449689865000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449689866000,
+    "Notes": null,
+    "OBJECTID": 4521
+   }
+  },
+  {
+   "geometry": {
+    "x": 422139.5728000002,
+    "y": 4037063.2586000003
+   },
+   "attributes": {
+    "Site_ID": "1632b",
+    "SubPlot": "t24",
+    "Date_Time": 1449695933000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 257,
+    "Furrom_Depth": 123,
+    "Interrow_Spacing": 402,
+    "Ridge_Height": 48,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{953F148A-BB05-4806-97D3-62E9D95D5A6A}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449696066000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449696067000,
+    "Notes": null,
+    "OBJECTID": 4522
+   }
+  },
+  {
+   "geometry": {
+    "x": 421936.79339999985,
+    "y": 4037426.6313000005
+   },
+   "attributes": {
+    "Site_ID": "1634a",
+    "SubPlot": "t24",
+    "Date_Time": 1449694909000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 286,
+    "Furrom_Depth": 116,
+    "Interrow_Spacing": 570,
+    "Ridge_Height": 44,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "8",
+    "F2_pnt5to3": "2",
+    "F2_gt3": "7",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "9",
+    "GlobalID": "{AA4232BB-92AB-4664-97E2-EABED4CC6C64}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449695066000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449695067000,
+    "Notes": "10cm water in furrow",
+    "OBJECTID": 4523
+   }
+  },
+  {
+   "geometry": {
+    "x": 416865.65699999966,
+    "y": 4027073.7278000005
+   },
+   "attributes": {
+    "Site_ID": "1639a",
+    "SubPlot": "t12",
+    "Date_Time": 1449688471000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 340,
+    "Furrom_Depth": 76,
+    "Interrow_Spacing": 530,
+    "Ridge_Height": 28,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "1",
+    "GlobalID": "{91CEFB0E-EF26-4805-8054-3D41D903C820}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449688717000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449688719000,
+    "Notes": null,
+    "OBJECTID": 4524
+   }
+  },
+  {
+   "geometry": {
+    "x": 416684.12160000019,
+    "y": 4027271.1638999991
+   },
+   "attributes": {
+    "Site_ID": "1637b",
+    "SubPlot": "t12",
+    "Date_Time": 1449691109000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 315,
+    "Furrom_Depth": 80,
+    "Interrow_Spacing": 495,
+    "Ridge_Height": 37,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "4",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "4",
+    "GlobalID": "{4CF567C1-BEBA-43B3-924E-BF275EF50962}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449691266000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449691268000,
+    "Notes": null,
+    "OBJECTID": 4525
+   }
+  },
+  {
+   "geometry": {
+    "x": 422079.66220000014,
+    "y": 4037304.5307999998
+   },
+   "attributes": {
+    "Site_ID": "1633a",
+    "SubPlot": "t24",
+    "Date_Time": 1449695435000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 285,
+    "Furrom_Depth": 102,
+    "Interrow_Spacing": 440,
+    "Ridge_Height": 21,
+    "F1_pnt5to3": "2",
+    "F1_gt3": "5",
+    "F2_pnt5to3": "2",
+    "F2_gt3": "7",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "6",
+    "GlobalID": "{6EA1C19C-99F2-4F6D-908B-B6DB1F995B78}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449695651000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449695652000,
+    "Notes": null,
+    "OBJECTID": 4526
+   }
+  },
+  {
+   "geometry": {
+    "x": 416686.83910000045,
+    "y": 4027618.9234999996
+   },
+   "attributes": {
+    "Site_ID": "1638A",
+    "SubPlot": "T12",
+    "Date_Time": 1449691418000,
+    "Monitoring_Initials": "WR",
+    "Ridge_Spacing": 320,
+    "Furrom_Depth": 85.5,
+    "Interrow_Spacing": 387,
+    "Ridge_Height": 30.5,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "9",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "7",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "7",
+    "GlobalID": "{7322B4E2-A8AD-4477-8CD7-6C2CCBF24042}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449691806000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449691807000,
+    "Notes": null,
+    "OBJECTID": 4534
+   }
+  },
+  {
+   "geometry": {
+    "x": 422198.56230000034,
+    "y": 4037105.0233999994
+   },
+   "attributes": {
+    "Site_ID": "1632-A",
+    "SubPlot": "T24 addition",
+    "Date_Time": 1449695881000,
+    "Monitoring_Initials": "WR",
+    "Ridge_Spacing": 285,
+    "Furrom_Depth": 116,
+    "Interrow_Spacing": 541,
+    "Ridge_Height": 43,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "1",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "5",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "5",
+    "GlobalID": "{BE7D8D03-B9BA-4A4E-A8F1-5A2914C27090}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449696148000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449696149000,
+    "Notes": null,
+    "OBJECTID": 4535
+   }
+  },
+  {
+   "geometry": {
+    "x": 417036.07220000029,
+    "y": 4027634.2081000004
+   },
+   "attributes": {
+    "Site_ID": "1640A",
+    "SubPlot": "T12",
+    "Date_Time": 1449690662000,
+    "Monitoring_Initials": "WR",
+    "Ridge_Spacing": 311,
+    "Furrom_Depth": 72,
+    "Interrow_Spacing": 402,
+    "Ridge_Height": 34,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "3",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "4",
+    "F3_pnt5to3": "2",
+    "F3_gt3": "3",
+    "GlobalID": "{7653F3EB-28D4-439F-A890-07B6D41D3C87}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449690928000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449690931000,
+    "Notes": null,
+    "OBJECTID": 4536
+   }
+  },
+  {
+   "geometry": {
+    "x": 422243.7929999996,
+    "y": 4036896.6915000007
+   },
+   "attributes": {
+    "Site_ID": "1631-B",
+    "SubPlot": "T24 addition",
+    "Date_Time": 1449695084000,
+    "Monitoring_Initials": "WR",
+    "Ridge_Spacing": 312,
+    "Furrom_Depth": 119.5,
+    "Interrow_Spacing": 388,
+    "Ridge_Height": 55,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{ED76229C-19A7-4CE6-B172-81D80A78FE99}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449695373000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449695374000,
+    "Notes": null,
+    "OBJECTID": 4537
+   }
+  },
+  {
+   "geometry": {
+    "x": 422299.03490000032,
+    "y": 4036932.2485000007
+   },
+   "attributes": {
+    "Site_ID": "1631-A",
+    "SubPlot": "T24 addition",
+    "Date_Time": 1449694508000,
+    "Monitoring_Initials": "WR",
+    "Ridge_Spacing": 322,
+    "Furrom_Depth": 106,
+    "Interrow_Spacing": 444,
+    "Ridge_Height": 36,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "2",
+    "F2_pnt5to3": "4",
+    "F2_gt3": "4",
+    "F3_pnt5to3": "6",
+    "F3_gt3": "3",
+    "GlobalID": "{26356A96-4C4A-4BA8-A0AC-CA5266AB1925}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449694833000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449694834000,
+    "Notes": null,
+    "OBJECTID": 4538
+   }
+  },
+  {
+   "geometry": {
+    "x": 416531.00339999981,
+    "y": 4027763.8650000002
+   },
+   "attributes": {
+    "Site_ID": "1638 B",
+    "SubPlot": "T12",
+    "Date_Time": 1449688632000,
+    "Monitoring_Initials": "WR",
+    "Ridge_Spacing": 332,
+    "Furrom_Depth": 96,
+    "Interrow_Spacing": 366,
+    "Ridge_Height": 42,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "5",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "0",
+    "GlobalID": "{7F3D2AB4-FE16-4985-9903-E8C5E31003CC}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449689037000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449689038000,
+    "Notes": null,
+    "OBJECTID": 4539
+   }
+  },
+  {
+   "geometry": {
+    "x": 416853.72250000015,
+    "y": 4027811.3474000003
+   },
+   "attributes": {
+    "Site_ID": "1640 B",
+    "SubPlot": "T12",
+    "Date_Time": 1449689739000,
+    "Monitoring_Initials": "WR",
+    "Ridge_Spacing": 331,
+    "Furrom_Depth": 80.5,
+    "Interrow_Spacing": 391,
+    "Ridge_Height": 25,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "3",
+    "F2_pnt5to3": "2",
+    "F2_gt3": "5",
+    "F3_pnt5to3": "2",
+    "F3_gt3": "1",
+    "GlobalID": "{28AF6130-1AD7-4BCF-AE5A-9C1F459424DF}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449690082000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449690083000,
+    "Notes": null,
+    "OBJECTID": 4540
+   }
+  },
+  {
+   "geometry": {
+    "x": 415575.01910000015,
+    "y": 4039660.3509
+   },
+   "attributes": {
+    "Site_ID": "1635c",
+    "SubPlot": "t29",
+    "Date_Time": 1449850154000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 265,
+    "Furrom_Depth": 116,
+    "Interrow_Spacing": 315,
+    "Ridge_Height": 46,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{AA648655-16F0-429E-B00D-6D9C8069775B}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449850328000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449850329000,
+    "Notes": "40 cm water in furrow",
+    "OBJECTID": 4541
+   }
+  },
+  {
+   "geometry": {
+    "x": 415341.42819999997,
+    "y": 4039788.6670999993
+   },
+   "attributes": {
+    "Site_ID": "1636a",
+    "SubPlot": "t24",
+    "Date_Time": 1449851255000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 282,
+    "Furrom_Depth": 104,
+    "Interrow_Spacing": 344,
+    "Ridge_Height": 47,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "0",
+    "GlobalID": "{9F6F4A4E-F3CF-45B5-AECE-91BD9D4437FA}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449851261000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449851262000,
+    "Notes": "20 cm water in furrow",
+    "OBJECTID": 4543
+   }
+  },
+  {
+   "geometry": {
+    "x": 415707.14859999996,
+    "y": 4039652.7353000008
+   },
+   "attributes": {
+    "Site_ID": "1635a",
+    "SubPlot": "t29",
+    "Date_Time": 1449849344000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 265,
+    "Furrom_Depth": 93,
+    "Interrow_Spacing": 355,
+    "Ridge_Height": 45,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{AAA66C77-4A0F-4ED7-B8FF-2AEA8F01FE3D}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449849522000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1449849523000,
+    "Notes": "40cm water in furrow",
+    "OBJECTID": 4544
+   }
+  },
+  {
+   "geometry": {
+    "x": 412979.13049999997,
+    "y": 4020831.5267999992
+   },
+   "attributes": {
+    "Site_ID": "1609_b",
+    "SubPlot": "t3_se",
+    "Date_Time": 1452623385000,
+    "Monitoring_Initials": "wr",
+    "Ridge_Spacing": 197,
+    "Furrom_Depth": 74,
+    "Interrow_Spacing": 479,
+    "Ridge_Height": 44,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{158AB5EA-73CF-4E90-86C5-A92D8A02C8B2}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452623787000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452623788000,
+    "Notes": null,
+    "OBJECTID": 4551
+   }
+  },
+  {
+   "geometry": {
+    "x": 410903.57079999987,
+    "y": 4020595.3204999994
+   },
+   "attributes": {
+    "Site_ID": "1602-b",
+    "SubPlot": "t3-sw",
+    "Date_Time": 1452635388000,
+    "Monitoring_Initials": "wr",
+    "Ridge_Spacing": 241,
+    "Furrom_Depth": 65,
+    "Interrow_Spacing": 530,
+    "Ridge_Height": 37,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "4",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "3",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "2",
+    "GlobalID": "{87C20DE7-B5A6-4D18-9ECD-D91851E69AC2}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452635571000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452635575000,
+    "Notes": null,
+    "OBJECTID": 4552
+   }
+  },
+  {
+   "geometry": {
+    "x": 410293.58690000046,
+    "y": 4020438.3027999997
+   },
+   "attributes": {
+    "Site_ID": "1600-a",
+    "SubPlot": "t2-2",
+    "Date_Time": 1452636236000,
+    "Monitoring_Initials": "wr",
+    "Ridge_Spacing": 321,
+    "Furrom_Depth": 82,
+    "Interrow_Spacing": 341,
+    "Ridge_Height": 47,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "6",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "7",
+    "GlobalID": "{4330AC89-90BA-47F8-A7B4-400305C82052}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452636573000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452636574000,
+    "Notes": null,
+    "OBJECTID": 4553
+   }
+  },
+  {
+   "geometry": {
+    "x": 411910.38650000002,
+    "y": 4021326.9918000009
+   },
+   "attributes": {
+    "Site_ID": "1607_a",
+    "SubPlot": "t3_se",
+    "Date_Time": 1452624730000,
+    "Monitoring_Initials": "wr",
+    "Ridge_Spacing": 296,
+    "Furrom_Depth": 95,
+    "Interrow_Spacing": 293,
+    "Ridge_Height": 41,
+    "F1_pnt5to3": "2",
+    "F1_gt3": "4",
+    "F2_pnt5to3": "2",
+    "F2_gt3": "5",
+    "F3_pnt5to3": "2",
+    "F3_gt3": "5",
+    "GlobalID": "{B5DFC9EA-70EC-4432-967A-2561DEB60063}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452625084000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452625085000,
+    "Notes": null,
+    "OBJECTID": 4554
+   }
+  },
+  {
+   "geometry": {
+    "x": 412954.88389999978,
+    "y": 4021362.4631999992
+   },
+   "attributes": {
+    "Site_ID": "1608_a",
+    "SubPlot": "t3_se",
+    "Date_Time": 1452621902000,
+    "Monitoring_Initials": "wr",
+    "Ridge_Spacing": null,
+    "Furrom_Depth": null,
+    "Interrow_Spacing": null,
+    "Ridge_Height": null,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{BFC72FD3-E839-47F8-9715-C90E3CDB4BBA}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452621969000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452621969000,
+    "Notes": "No site access due to flooding. Clod assessment values are fictitious.",
+    "OBJECTID": 4555
+   }
+  },
+  {
+   "geometry": {
+    "x": 410838.78490000032,
+    "y": 4020580.4545000009
+   },
+   "attributes": {
+    "Site_ID": "1602-a",
+    "SubPlot": "t3-sw",
+    "Date_Time": 1452634757000,
+    "Monitoring_Initials": "wr",
+    "Ridge_Spacing": 331,
+    "Furrom_Depth": 100,
+    "Interrow_Spacing": 463,
+    "Ridge_Height": 42,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "6",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "6",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "9",
+    "GlobalID": "{96CCD8C3-50CB-41F3-AE71-4524214D30D8}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452635101000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452635102000,
+    "Notes": null,
+    "OBJECTID": 4556
+   }
+  },
+  {
+   "geometry": {
+    "x": 410223.02350000013,
+    "y": 4020437.9229000006
+   },
+   "attributes": {
+    "Site_ID": "1600-b",
+    "SubPlot": "t2-2",
+    "Date_Time": 1452637018000,
+    "Monitoring_Initials": "wr",
+    "Ridge_Spacing": 295,
+    "Furrom_Depth": 81,
+    "Interrow_Spacing": 375,
+    "Ridge_Height": 41,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "1",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "3",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "2",
+    "GlobalID": "{BCE7B7AC-96AA-47CF-A535-EEDDF4C2916C}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452637173000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452637174000,
+    "Notes": null,
+    "OBJECTID": 4557
+   }
+  },
+  {
+   "geometry": {
+    "x": 411838.57760000043,
+    "y": 4021150.2215999998
+   },
+   "attributes": {
+    "Site_ID": "1604",
+    "SubPlot": "t3_sw",
+    "Date_Time": 1452626284000,
+    "Monitoring_Initials": "wr",
+    "Ridge_Spacing": 335,
+    "Furrom_Depth": 119,
+    "Interrow_Spacing": 309,
+    "Ridge_Height": 60,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "7",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "7",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "2",
+    "GlobalID": "{2EFC4731-75B4-4A0B-AA33-5567E72400D3}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452626686000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452626687000,
+    "Notes": null,
+    "OBJECTID": 4558
+   }
+  },
+  {
+   "geometry": {
+    "x": 411938.71109999996,
+    "y": 4021331.9184000008
+   },
+   "attributes": {
+    "Site_ID": "1607b",
+    "SubPlot": "t3_se",
+    "Date_Time": 1452625398000,
+    "Monitoring_Initials": "wr",
+    "Ridge_Spacing": 286,
+    "Furrom_Depth": 93,
+    "Interrow_Spacing": 344,
+    "Ridge_Height": 54,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "6",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "6",
+    "F3_pnt5to3": "2",
+    "F3_gt3": "4",
+    "GlobalID": "{E384D50B-918B-4776-993C-7B2E2E88E745}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452625698000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452625703000,
+    "Notes": null,
+    "OBJECTID": 4559
+   }
+  },
+  {
+   "geometry": {
+    "x": 411648.16119999997,
+    "y": 4020406.4386999998
+   },
+   "attributes": {
+    "Site_ID": "1605-b",
+    "SubPlot": "t3-sw",
+    "Date_Time": 1452631915000,
+    "Monitoring_Initials": "wr",
+    "Ridge_Spacing": 313,
+    "Furrom_Depth": 99,
+    "Interrow_Spacing": 423,
+    "Ridge_Height": 34,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "7",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "9",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "6",
+    "GlobalID": "{91F1B521-2D1B-403C-89B0-71F6028893BC}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452632164000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452632165000,
+    "Notes": null,
+    "OBJECTID": 4560
+   }
+  },
+  {
+   "geometry": {
+    "x": 411787.03419999965,
+    "y": 4021139.4297000002
+   },
+   "attributes": {
+    "Site_ID": "1604b",
+    "SubPlot": "t3_sw",
+    "Date_Time": 1452627090000,
+    "Monitoring_Initials": "wr",
+    "Ridge_Spacing": 318,
+    "Furrom_Depth": 112,
+    "Interrow_Spacing": 384,
+    "Ridge_Height": 38,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "7",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "6",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "6",
+    "GlobalID": "{EA64CDD4-A44E-4AFE-92B7-46994C251758}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452627393000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452627394000,
+    "Notes": null,
+    "OBJECTID": 4561
+   }
+  },
+  {
+   "geometry": {
+    "x": 413036.24839999992,
+    "y": 4020861.1291000005
+   },
+   "attributes": {
+    "Site_ID": "1609_a",
+    "SubPlot": "t3_se",
+    "Date_Time": 1452622616000,
+    "Monitoring_Initials": "wr",
+    "Ridge_Spacing": 242,
+    "Furrom_Depth": 90,
+    "Interrow_Spacing": 452,
+    "Ridge_Height": 41,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{F50752BC-3EAD-4075-A564-86AAC9A75844}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452622950000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452622951000,
+    "Notes": "Clods are rapidly breaking down",
+    "OBJECTID": 4562
+   }
+  },
+  {
+   "geometry": {
+    "x": 411172.06140000001,
+    "y": 4021305.1192000005
+   },
+   "attributes": {
+    "Site_ID": "1603-b",
+    "SubPlot": "t3-sw",
+    "Date_Time": 1452633656000,
+    "Monitoring_Initials": "wr",
+    "Ridge_Spacing": 315,
+    "Furrom_Depth": 106,
+    "Interrow_Spacing": 330,
+    "Ridge_Height": 47,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "4",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "3",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "3",
+    "GlobalID": "{D93FEF24-431E-4038-8828-1434736D9237}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452633925000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452633926000,
+    "Notes": null,
+    "OBJECTID": 4563
+   }
+  },
+  {
+   "geometry": {
+    "x": 412918.60010000039,
+    "y": 4021361.7028000001
+   },
+   "attributes": {
+    "Site_ID": "1608_b",
+    "SubPlot": "t3_se",
+    "Date_Time": 1452621762000,
+    "Monitoring_Initials": "wr",
+    "Ridge_Spacing": null,
+    "Furrom_Depth": null,
+    "Interrow_Spacing": null,
+    "Ridge_Height": null,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{7FB09E8B-896E-4D0F-8960-C0E733A9E7A5}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452621861000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452621861000,
+    "Notes": "No site access due to flooding. Clod assessment values are fictitious.",
+    "OBJECTID": 4564
+   }
+  },
+  {
+   "geometry": {
+    "x": 411954.92679999955,
+    "y": 4020966.1052999999
+   },
+   "attributes": {
+    "Site_ID": "1606_a",
+    "SubPlot": "t3_se",
+    "Date_Time": 1452628560000,
+    "Monitoring_Initials": "wr",
+    "Ridge_Spacing": 289,
+    "Furrom_Depth": 103,
+    "Interrow_Spacing": 396,
+    "Ridge_Height": 49,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "7",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "9",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "7",
+    "GlobalID": "{228962AE-265B-4540-8DCE-994F3B278CC3}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452628909000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452628911000,
+    "Notes": null,
+    "OBJECTID": 4566
+   }
+  },
+  {
+   "geometry": {
+    "x": 412886.29129999969,
+    "y": 4021358.9783999994
+   },
+   "attributes": {
+    "Site_ID": "1608_c",
+    "SubPlot": "t3_se",
+    "Date_Time": 1452621520000,
+    "Monitoring_Initials": "wr",
+    "Ridge_Spacing": null,
+    "Furrom_Depth": null,
+    "Interrow_Spacing": null,
+    "Ridge_Height": null,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{BB15BEFA-859A-4586-829D-8E5F9515CE2C}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452621704000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452621704000,
+    "Notes": "No access to site due to flooding and heavy mud. Clod assessment values are fictitious.",
+    "OBJECTID": 4567
+   }
+  },
+  {
+   "geometry": {
+    "x": 412014.57340000011,
+    "y": 4020961.5066999998
+   },
+   "attributes": {
+    "Site_ID": "1606_b",
+    "SubPlot": "t3-se",
+    "Date_Time": 1452629391000,
+    "Monitoring_Initials": "wr",
+    "Ridge_Spacing": 292,
+    "Furrom_Depth": 83,
+    "Interrow_Spacing": 342,
+    "Ridge_Height": 41,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "7",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "8",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "7",
+    "GlobalID": "{E6CE2CB8-E931-49C4-81BE-035DC4265A0F}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452629678000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452629679000,
+    "Notes": null,
+    "OBJECTID": 4568
+   }
+  },
+  {
+   "geometry": {
+    "x": 411085.47119999956,
+    "y": 4021284.8661000002
+   },
+   "attributes": {
+    "Site_ID": "1603-a",
+    "SubPlot": "t3-sw",
+    "Date_Time": 1452633058000,
+    "Monitoring_Initials": "wr",
+    "Ridge_Spacing": 332,
+    "Furrom_Depth": 99,
+    "Interrow_Spacing": 388,
+    "Ridge_Height": 66,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "7",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "9",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "9",
+    "GlobalID": "{47FA082A-98F0-4AE3-B74D-4C5B291681B6}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452633331000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452633332000,
+    "Notes": null,
+    "OBJECTID": 4569
+   }
+  },
+  {
+   "geometry": {
+    "x": 412067.14740000013,
+    "y": 4020967.6301000006
+   },
+   "attributes": {
+    "Site_ID": "1606-c",
+    "SubPlot": "t3-se",
+    "Date_Time": null,
+    "Monitoring_Initials": "wr",
+    "Ridge_Spacing": 281,
+    "Furrom_Depth": 100,
+    "Interrow_Spacing": 300,
+    "Ridge_Height": 50,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "5",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "5",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "5",
+    "GlobalID": "{B8FD68AF-2922-4B51-8CE0-A1DCF4BEAD46}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452631120000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452631121000,
+    "Notes": null,
+    "OBJECTID": 4570
+   }
+  },
+  {
+   "geometry": {
+    "x": 412825.34059999976,
+    "y": 4022026.6391000003
+   },
+   "attributes": {
+    "Site_ID": "1617a",
+    "SubPlot": "t3-ne",
+    "Date_Time": 1452629150000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 273,
+    "Furrom_Depth": 90,
+    "Interrow_Spacing": 488,
+    "Ridge_Height": 46,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{A62F0789-3EBF-4D2A-B994-6DDE22375D98}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452629308000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452630176000,
+    "Notes": null,
+    "OBJECTID": 4571
+   }
+  },
+  {
+   "geometry": {
+    "x": 413828.77819999959,
+    "y": 4022180.5792999994
+   },
+   "attributes": {
+    "Site_ID": "1620a",
+    "SubPlot": "t5-4",
+    "Date_Time": 1452631449000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 240,
+    "Furrom_Depth": 86,
+    "Interrow_Spacing": 565,
+    "Ridge_Height": 43,
+    "F1_pnt5to3": "2",
+    "F1_gt3": "9",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "10",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "10",
+    "GlobalID": "{AEDB6434-2B91-48D8-9887-761A75216947}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452631463000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452631467000,
+    "Notes": null,
+    "OBJECTID": 4572
+   }
+  },
+  {
+   "geometry": {
+    "x": 412188.03689999972,
+    "y": 4022357.8897999991
+   },
+   "attributes": {
+    "Site_ID": "1615a",
+    "SubPlot": "t2-4",
+    "Date_Time": 1452626345000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 294,
+    "Furrom_Depth": 98,
+    "Interrow_Spacing": 395,
+    "Ridge_Height": 43,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "0",
+    "GlobalID": "{3EE4EA30-9A66-45DE-B7DA-188B8FB76D80}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452626489000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452626524000,
+    "Notes": null,
+    "OBJECTID": 4573
+   }
+  },
+  {
+   "geometry": {
+    "x": 411604.43850000016,
+    "y": 4021780.8408000004
+   },
+   "attributes": {
+    "Site_ID": "1613b",
+    "SubPlot": "t2_3",
+    "Date_Time": 1452623829000,
+    "Monitoring_Initials": "ede",
+    "Ridge_Spacing": 295,
+    "Furrom_Depth": 93,
+    "Interrow_Spacing": 410,
+    "Ridge_Height": 47,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "5",
+    "F2_pnt5to3": "2",
+    "F2_gt3": "4",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "4",
+    "GlobalID": "{F947B9A8-F75E-4576-8925-1F5A14B906C3}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452624064000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452624067000,
+    "Notes": null,
+    "OBJECTID": 4574
+   }
+  },
+  {
+   "geometry": {
+    "x": 411660.11529999971,
+    "y": 4022030.4374000002
+   },
+   "attributes": {
+    "Site_ID": "1614",
+    "SubPlot": "t2_4",
+    "Date_Time": 1452624824000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 325,
+    "Furrom_Depth": 90,
+    "Interrow_Spacing": 355,
+    "Ridge_Height": 40,
+    "F1_pnt5to3": "3",
+    "F1_gt3": "6",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "7",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "8",
+    "GlobalID": "{C01DC1A6-3A5C-4355-AE90-B1A89E7DAD27}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452625043000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452625046000,
+    "Notes": null,
+    "OBJECTID": 4575
+   }
+  },
+  {
+   "geometry": {
+    "x": 411177.5159,
+    "y": 4021899.3552000001
+   },
+   "attributes": {
+    "Site_ID": "1612b",
+    "SubPlot": "t2_3",
+    "Date_Time": 1452621768000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 300,
+    "Furrom_Depth": 97,
+    "Interrow_Spacing": 380,
+    "Ridge_Height": 42,
+    "F1_pnt5to3": "2",
+    "F1_gt3": "6",
+    "F2_pnt5to3": "2",
+    "F2_gt3": "4",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "8",
+    "GlobalID": "{D7BF6EEF-CB5F-439F-9273-052556495CE9}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452621949000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452622508000,
+    "Notes": null,
+    "OBJECTID": 4576
+   }
+  },
+  {
+   "geometry": {
+    "x": 413694.27809999976,
+    "y": 4022157.1773000006
+   },
+   "attributes": {
+    "Site_ID": "1619a",
+    "SubPlot": "t5-4",
+    "Date_Time": 1452630858000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 166,
+    "Furrom_Depth": 60,
+    "Interrow_Spacing": 663,
+    "Ridge_Height": 26,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "0",
+    "GlobalID": "{C925BB5C-0FD5-4FDA-A55D-BF55D4E7E7E4}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452631044000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452631047000,
+    "Notes": null,
+    "OBJECTID": 4577
+   }
+  },
+  {
+   "geometry": {
+    "x": 412264.90529999975,
+    "y": 4021918.3557999991
+   },
+   "attributes": {
+    "Site_ID": "1616b",
+    "SubPlot": "t3-ne",
+    "Date_Time": 1452627895000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 257,
+    "Furrom_Depth": 82,
+    "Interrow_Spacing": 450,
+    "Ridge_Height": 39,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "3",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "0",
+    "GlobalID": "{AD15AFE7-9FD5-4AB3-893F-4B92451C7982}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452628055000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452630229000,
+    "Notes": null,
+    "OBJECTID": 4578
+   }
+  },
+  {
+   "geometry": {
+    "x": 412727.12939999998,
+    "y": 4022051.2559999991
+   },
+   "attributes": {
+    "Site_ID": "1617c",
+    "SubPlot": "t3-ne",
+    "Date_Time": 1452629886000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 292,
+    "Furrom_Depth": 68,
+    "Interrow_Spacing": 348,
+    "Ridge_Height": 33,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "0",
+    "GlobalID": "{08BDB344-0B45-4997-A808-ABDD3E7477BD}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452629891000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452630203000,
+    "Notes": null,
+    "OBJECTID": 4579
+   }
+  },
+  {
+   "geometry": {
+    "x": 411607.50679999962,
+    "y": 4022037.9623000007
+   },
+   "attributes": {
+    "Site_ID": "1614b",
+    "SubPlot": "t2_4",
+    "Date_Time": 1452625282000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 295,
+    "Furrom_Depth": 91,
+    "Interrow_Spacing": 327,
+    "Ridge_Height": 39,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "7",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "7",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "10",
+    "GlobalID": "{092D2DB5-72BD-4B3F-ADA0-FCD2E1144443}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452625454000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452625457000,
+    "Notes": null,
+    "OBJECTID": 4580
+   }
+  },
+  {
+   "geometry": {
+    "x": 413681.71009999979,
+    "y": 4021949.4071999993
+   },
+   "attributes": {
+    "Site_ID": "1618a",
+    "SubPlot": "t5-4",
+    "Date_Time": 1452632888000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 182,
+    "Furrom_Depth": 69,
+    "Interrow_Spacing": 673,
+    "Ridge_Height": 27,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{205C4F91-5405-4D4D-8A20-5DCF3F070E70}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452632980000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452632984000,
+    "Notes": null,
+    "OBJECTID": 4581
+   }
+  },
+  {
+   "geometry": {
+    "x": 412335.25629999954,
+    "y": 4021934.5069999993
+   },
+   "attributes": {
+    "Site_ID": "1616a",
+    "SubPlot": "t3-ne",
+    "Date_Time": 1452628271000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 284,
+    "Furrom_Depth": 82,
+    "Interrow_Spacing": 470,
+    "Ridge_Height": 37,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{78B82FA8-E61F-4AA9-895E-B4D98E98C443}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452628497000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452630216000,
+    "Notes": null,
+    "OBJECTID": 4582
+   }
+  },
+  {
+   "geometry": {
+    "x": 410980.5307,
+    "y": 4020107.8489999995
+   },
+   "attributes": {
+    "Site_ID": "1601b",
+    "SubPlot": "t3sw",
+    "Date_Time": 1452635632000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 310,
+    "Furrom_Depth": 91,
+    "Interrow_Spacing": 418,
+    "Ridge_Height": 64,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "10",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "10",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "10",
+    "GlobalID": "{BD6DC86C-BCB8-470B-A8B0-CED9DFF8E712}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452635811000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452635815000,
+    "Notes": null,
+    "OBJECTID": 4583
+   }
+  },
+  {
+   "geometry": {
+    "x": 412773.77199999988,
+    "y": 4022057.3321000002
+   },
+   "attributes": {
+    "Site_ID": "1617b",
+    "SubPlot": "t3-ne",
+    "Date_Time": 1452629478000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 280,
+    "Furrom_Depth": 84,
+    "Interrow_Spacing": 380,
+    "Ridge_Height": 34,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "0",
+    "GlobalID": "{053A2FE7-2E42-4FE8-B8D2-EEF67BA76D4B}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452629606000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452630190000,
+    "Notes": null,
+    "OBJECTID": 4584
+   }
+  },
+  {
+   "geometry": {
+    "x": 413868.12909999955,
+    "y": 4021967.6340999994
+   },
+   "attributes": {
+    "Site_ID": "1621a",
+    "SubPlot": "t5-4",
+    "Date_Time": 1452632458000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 210,
+    "Furrom_Depth": 77,
+    "Interrow_Spacing": 670,
+    "Ridge_Height": 24,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{CE057F3B-A5CA-4BAF-8E27-1FC1883724F6}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452632533000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452632537000,
+    "Notes": null,
+    "OBJECTID": 4585
+   }
+  },
+  {
+   "geometry": {
+    "x": 411110.83029999956,
+    "y": 4021908.7763999999
+   },
+   "attributes": {
+    "Site_ID": "1612a",
+    "SubPlot": "t2_3",
+    "Date_Time": 1452621170000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 305,
+    "Furrom_Depth": 101,
+    "Interrow_Spacing": 347,
+    "Ridge_Height": 49,
+    "F1_pnt5to3": "3",
+    "F1_gt3": "6",
+    "F2_pnt5to3": "3",
+    "F2_gt3": "5",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "2",
+    "GlobalID": "{2122CBF7-A711-4864-943F-595D2DBFADE1}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452621379000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452622495000,
+    "Notes": null,
+    "OBJECTID": 4586
+   }
+  },
+  {
+   "geometry": {
+    "x": 410898.02940000035,
+    "y": 4020090.3906999994
+   },
+   "attributes": {
+    "Site_ID": "1601a",
+    "SubPlot": "t3sw",
+    "Date_Time": 1452635092000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 310,
+    "Furrom_Depth": 88,
+    "Interrow_Spacing": 470,
+    "Ridge_Height": 46,
+    "F1_pnt5to3": "3",
+    "F1_gt3": "7",
+    "F2_pnt5to3": "2",
+    "F2_gt3": "7",
+    "F3_pnt5to3": "3",
+    "F3_gt3": "3",
+    "GlobalID": "{3BEF8D51-2F58-40B4-8A0C-5FD2BE058CC9}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452635396000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452635400000,
+    "Notes": null,
+    "OBJECTID": 4587
+   }
+  },
+  {
+   "geometry": {
+    "x": 411556.07010000013,
+    "y": 4021773.0133999996
+   },
+   "attributes": {
+    "Site_ID": "1613a",
+    "SubPlot": "t2_3",
+    "Date_Time": 1452623057000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 290,
+    "Furrom_Depth": 88,
+    "Interrow_Spacing": 437,
+    "Ridge_Height": 46,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "7",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "6",
+    "F3_pnt5to3": "2",
+    "F3_gt3": "2",
+    "GlobalID": "{80A933D9-17C1-4958-9717-971E75794233}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452623414000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452623418000,
+    "Notes": null,
+    "OBJECTID": 4588
+   }
+  },
+  {
+   "geometry": {
+    "x": 412114.84819999989,
+    "y": 4022380.2636999991
+   },
+   "attributes": {
+    "Site_ID": "1615b",
+    "SubPlot": "t2-4",
+    "Date_Time": 1452626760000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 300,
+    "Furrom_Depth": 97,
+    "Interrow_Spacing": 375,
+    "Ridge_Height": 42,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "0",
+    "GlobalID": "{A867C60A-7A2C-42FD-B5B6-840AE535FCBB}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452626950000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452626954000,
+    "Notes": null,
+    "OBJECTID": 4589
+   }
+  },
+  {
+   "geometry": {
+    "x": 415342.80840000045,
+    "y": 4039788.9987000003
+   },
+   "attributes": {
+    "Site_ID": "1636-A",
+    "SubPlot": null,
+    "Date_Time": 1452624312000,
+    "Monitoring_Initials": "SR",
+    "Ridge_Spacing": 220,
+    "Furrom_Depth": 76,
+    "Interrow_Spacing": 348,
+    "Ridge_Height": 50,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "1",
+    "GlobalID": "{90DF11F8-07D4-4943-95BB-1C39F38A714B}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452626231000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452703397000,
+    "Notes": null,
+    "OBJECTID": 4591
+   }
+  },
+  {
+   "geometry": {
+    "x": 415649.83970000036,
+    "y": 4039687.6103000008
+   },
+   "attributes": {
+    "Site_ID": "1635b",
+    "SubPlot": "t29",
+    "Date_Time": 1449849851000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 250,
+    "Furrom_Depth": 80,
+    "Interrow_Spacing": 380,
+    "Ridge_Height": 38,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "1",
+    "GlobalID": "{5694A7FB-A8B1-4D0A-88CF-4E9611A99D89}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449850014000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452703420000,
+    "Notes": "19cm water in furrow",
+    "OBJECTID": 4545
+   }
+  },
+  {
+   "geometry": {
+    "x": 415649.90899999999,
+    "y": 4039684.1583999991
+   },
+   "attributes": {
+    "Site_ID": "1635-B",
+    "SubPlot": "t29-4",
+    "Date_Time": 1452626551000,
+    "Monitoring_Initials": "SR",
+    "Ridge_Spacing": 230,
+    "Furrom_Depth": 56,
+    "Interrow_Spacing": 395,
+    "Ridge_Height": 20,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{400427E5-9BC3-4835-9ED0-2FBE4132AE41}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452626567000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452703432000,
+    "Notes": null,
+    "OBJECTID": 4592
+   }
+  },
+  {
+   "geometry": {
+    "x": 415707.95559999999,
+    "y": 4039652.8383000009
+   },
+   "attributes": {
+    "Site_ID": "1635-A",
+    "SubPlot": null,
+    "Date_Time": 1452627271000,
+    "Monitoring_Initials": "SR",
+    "Ridge_Spacing": 220,
+    "Furrom_Depth": 53,
+    "Interrow_Spacing": 355,
+    "Ridge_Height": 45,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{379EEA2F-728C-4B2C-BE70-9DABB9EF28F0}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452627277000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452703457000,
+    "Notes": null,
+    "OBJECTID": 4593
+   }
+  },
+  {
+   "geometry": {
+    "x": 415239.68609999958,
+    "y": 4039774.8123000003
+   },
+   "attributes": {
+    "Site_ID": "1636-B",
+    "SubPlot": "t29-4",
+    "Date_Time": 1452628170000,
+    "Monitoring_Initials": "SR",
+    "Ridge_Spacing": 260,
+    "Furrom_Depth": 64,
+    "Interrow_Spacing": 405,
+    "Ridge_Height": 33,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{7B52EFE8-12E3-465A-A851-FD7D6D1059F5}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452628392000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452703757000,
+    "Notes": null,
+    "OBJECTID": 4590
+   }
+  },
+  {
+   "geometry": {
+    "x": 415240.08559999987,
+    "y": 4039775.3424999993
+   },
+   "attributes": {
+    "Site_ID": "1636b",
+    "SubPlot": "t29",
+    "Date_Time": 1449851458000,
+    "Monitoring_Initials": "ed",
+    "Ridge_Spacing": 278,
+    "Furrom_Depth": 102,
+    "Interrow_Spacing": 400,
+    "Ridge_Height": 35,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{312C423F-AEFB-4C2E-B37B-7B72D73F9A65}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1449851615000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452794204000,
+    "Notes": "35 cm water in furrow",
+    "OBJECTID": 4542
+   }
+  },
+  {
+   "geometry": {
+    "x": 422078.31340000033,
+    "y": 4037303.9882999994
+   },
+   "attributes": {
+    "Site_ID": "1633-A",
+    "SubPlot": null,
+    "Date_Time": null,
+    "Monitoring_Initials": "SR",
+    "Ridge_Spacing": 440,
+    "Furrom_Depth": 98,
+    "Interrow_Spacing": 293,
+    "Ridge_Height": 52,
+    "F1_pnt5to3": "2",
+    "F1_gt3": "2",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "1",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "9",
+    "GlobalID": "{7B3DEC1B-6D10-4079-8AC7-E085EBC125C6}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452799024000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452799025000,
+    "Notes": null,
+    "OBJECTID": 4617
+   }
+  },
+  {
+   "geometry": {
+    "x": 422297.4104000004,
+    "y": 4036930.9319000002
+   },
+   "attributes": {
+    "Site_ID": "1631-A",
+    "SubPlot": "T-24",
+    "Date_Time": null,
+    "Monitoring_Initials": "SR",
+    "Ridge_Spacing": 327,
+    "Furrom_Depth": 117,
+    "Interrow_Spacing": 455,
+    "Ridge_Height": 68,
+    "F1_pnt5to3": "3",
+    "F1_gt3": "1",
+    "F2_pnt5to3": "6",
+    "F2_gt3": "1",
+    "F3_pnt5to3": "2",
+    "F3_gt3": "10",
+    "GlobalID": "{491EACB8-8ADB-4DD5-A5FF-EFDBFF89E61B}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452803089000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452803090000,
+    "Notes": null,
+    "OBJECTID": 4618
+   }
+  },
+  {
+   "geometry": {
+    "x": 422137.95920000039,
+    "y": 4037063.1622000001
+   },
+   "attributes": {
+    "Site_ID": "1632-B",
+    "SubPlot": null,
+    "Date_Time": 1452800251000,
+    "Monitoring_Initials": "SR",
+    "Ridge_Spacing": 255,
+    "Furrom_Depth": 120,
+    "Interrow_Spacing": 401,
+    "Ridge_Height": 72,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "0",
+    "GlobalID": "{66CA798B-76E3-4B8A-B550-79C969BB59AB}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452800428000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452800429000,
+    "Notes": null,
+    "OBJECTID": 4619
+   }
+  },
+  {
+   "geometry": {
+    "x": 416545.76719999965,
+    "y": 4027062.0493999999
+   },
+   "attributes": {
+    "Site_ID": "1637-A",
+    "SubPlot": "T-12",
+    "Date_Time": 1452806497000,
+    "Monitoring_Initials": "SR",
+    "Ridge_Spacing": 359,
+    "Furrom_Depth": 93,
+    "Interrow_Spacing": 525,
+    "Ridge_Height": 35,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "1",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "2",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "2",
+    "GlobalID": "{844040FE-70D7-47B6-B4C5-03E6CA1D346C}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452806748000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452806749000,
+    "Notes": null,
+    "OBJECTID": 4620
+   }
+  },
+  {
+   "geometry": {
+    "x": 422200.64410000015,
+    "y": 4037099.5387999993
+   },
+   "attributes": {
+    "Site_ID": "1632-A",
+    "SubPlot": "T-24",
+    "Date_Time": 1452800994000,
+    "Monitoring_Initials": "SR",
+    "Ridge_Spacing": 550,
+    "Furrom_Depth": 110,
+    "Interrow_Spacing": 290,
+    "Ridge_Height": 72,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "1",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "6",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "5",
+    "GlobalID": "{9110C708-87C6-4B19-ABF8-65DF9E70510F}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452801185000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452801186000,
+    "Notes": null,
+    "OBJECTID": 4621
+   }
+  },
+  {
+   "geometry": {
+    "x": 422245.14379999973,
+    "y": 4036897.4560000002
+   },
+   "attributes": {
+    "Site_ID": "1631-B",
+    "SubPlot": "T-24",
+    "Date_Time": null,
+    "Monitoring_Initials": "SR",
+    "Ridge_Spacing": 310,
+    "Furrom_Depth": 110,
+    "Interrow_Spacing": 388,
+    "Ridge_Height": 58,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "1",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "1",
+    "GlobalID": "{7F3C7AD1-C668-44EE-A562-2FA6BC70FD2D}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452802283000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452802284000,
+    "Notes": null,
+    "OBJECTID": 4622
+   }
+  },
+  {
+   "geometry": {
+    "x": 416867.08040000033,
+    "y": 4027072.4938999992
+   },
+   "attributes": {
+    "Site_ID": "1639-A",
+    "SubPlot": "T-12",
+    "Date_Time": null,
+    "Monitoring_Initials": "SR",
+    "Ridge_Spacing": 335,
+    "Furrom_Depth": 88,
+    "Interrow_Spacing": 520,
+    "Ridge_Height": 36,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "7",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "8",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "4",
+    "GlobalID": "{84229D3E-414C-4791-984C-4BCAD3E6F191}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452807814000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452807815000,
+    "Notes": null,
+    "OBJECTID": 4623
+   }
+  },
+  {
+   "geometry": {
+    "x": 421937.06209999975,
+    "y": 4037426.6287999991
+   },
+   "attributes": {
+    "Site_ID": "1634-A",
+    "SubPlot": null,
+    "Date_Time": 1452797325000,
+    "Monitoring_Initials": "SR",
+    "Ridge_Spacing": 570,
+    "Furrom_Depth": 104,
+    "Interrow_Spacing": 294,
+    "Ridge_Height": 62,
+    "F1_pnt5to3": "4",
+    "F1_gt3": "9",
+    "F2_pnt5to3": "9",
+    "F2_gt3": "9",
+    "F3_pnt5to3": "9",
+    "F3_gt3": "9",
+    "GlobalID": "{AA058C10-58B4-473A-AF00-D6F5957256AC}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452797642000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452797647000,
+    "Notes": null,
+    "OBJECTID": 4624
+   }
+  },
+  {
+   "geometry": {
+    "x": 411721.84619999956,
+    "y": 4020413.6765000001
+   },
+   "attributes": {
+    "Site_ID": "1605-a",
+    "SubPlot": "t3-se",
+    "Date_Time": 1452631192000,
+    "Monitoring_Initials": "wr",
+    "Ridge_Spacing": 295,
+    "Furrom_Depth": 91,
+    "Interrow_Spacing": 343,
+    "Ridge_Height": 46,
+    "F1_pnt5to3": "0",
+    "F1_gt3": "7",
+    "F2_pnt5to3": "0",
+    "F2_gt3": "4",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "5",
+    "GlobalID": "{5616924C-B0CF-427D-A948-E0AC34B23BE0}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452631542000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1453235268000,
+    "Notes": null,
+    "OBJECTID": 4565
+   }
+  },
+  {
+   "geometry": {
+    "x": 417033.83220000006,
+    "y": 4027634.4515000004
+   },
+   "attributes": {
+    "Site_ID": "1640-A",
+    "SubPlot": "T-12",
+    "Date_Time": 1452880776000,
+    "Monitoring_Initials": "SR",
+    "Ridge_Spacing": 312,
+    "Furrom_Depth": 78,
+    "Interrow_Spacing": 410,
+    "Ridge_Height": 30,
+    "F1_pnt5to3": "6",
+    "F1_gt3": "1",
+    "F2_pnt5to3": "3",
+    "F2_gt3": "3",
+    "F3_pnt5to3": "5",
+    "F3_gt3": "1",
+    "GlobalID": "{084B98EA-E6E2-4614-844C-9EE266686A65}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452880965000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452880966000,
+    "Notes": null,
+    "OBJECTID": 4642
+   }
+  },
+  {
+   "geometry": {
+    "x": 416531.29920000024,
+    "y": 4027766.6355000008
+   },
+   "attributes": {
+    "Site_ID": "1638-B",
+    "SubPlot": "T-12",
+    "Date_Time": 1452882269000,
+    "Monitoring_Initials": "SR",
+    "Ridge_Spacing": 330,
+    "Furrom_Depth": 95,
+    "Interrow_Spacing": 370,
+    "Ridge_Height": 42,
+    "F1_pnt5to3": "8",
+    "F1_gt3": "2",
+    "F2_pnt5to3": "2",
+    "F2_gt3": "1",
+    "F3_pnt5to3": "3",
+    "F3_gt3": "1",
+    "GlobalID": "{C214D026-5076-4098-B55C-B0625A8D2476}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452882432000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452882433000,
+    "Notes": null,
+    "OBJECTID": 4643
+   }
+  },
+  {
+   "geometry": {
+    "x": 416690.03980000038,
+    "y": 4027618.9955000002
+   },
+   "attributes": {
+    "Site_ID": "638-A",
+    "SubPlot": "T-12",
+    "Date_Time": 1452880120000,
+    "Monitoring_Initials": "SR",
+    "Ridge_Spacing": 303,
+    "Furrom_Depth": 86,
+    "Interrow_Spacing": 404,
+    "Ridge_Height": 28,
+    "F1_pnt5to3": "2",
+    "F1_gt3": "6",
+    "F2_pnt5to3": "2",
+    "F2_gt3": "3",
+    "F3_pnt5to3": "1",
+    "F3_gt3": "5",
+    "GlobalID": "{AB69CDBB-D344-429B-9AEC-3576EF618FAD}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452880132000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452880133000,
+    "Notes": null,
+    "OBJECTID": 4644
+   }
+  },
+  {
+   "geometry": {
+    "x": 417028.13939999975,
+    "y": 4027264.5047999993
+   },
+   "attributes": {
+    "Site_ID": "1639-B",
+    "SubPlot": "T-12",
+    "Date_Time": 1452878738000,
+    "Monitoring_Initials": "SR",
+    "Ridge_Spacing": 366,
+    "Furrom_Depth": 94,
+    "Interrow_Spacing": 393,
+    "Ridge_Height": 35,
+    "F1_pnt5to3": "1",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "2",
+    "F2_gt3": "0",
+    "F3_pnt5to3": "0",
+    "F3_gt3": "6",
+    "GlobalID": "{779EBF91-1F85-44AD-A182-23A50E38ACA5}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452878750000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452878751000,
+    "Notes": null,
+    "OBJECTID": 4645
+   }
+  },
+  {
+   "geometry": {
+    "x": 416851.8936999999,
+    "y": 4027807.7040999997
+   },
+   "attributes": {
+    "Site_ID": "1640-B",
+    "SubPlot": "T-12",
+    "Date_Time": 1452883106000,
+    "Monitoring_Initials": "SR",
+    "Ridge_Spacing": 323,
+    "Furrom_Depth": 78,
+    "Interrow_Spacing": 400,
+    "Ridge_Height": 28,
+    "F1_pnt5to3": "8",
+    "F1_gt3": "1",
+    "F2_pnt5to3": "1",
+    "F2_gt3": "6",
+    "F3_pnt5to3": "6",
+    "F3_gt3": "1",
+    "GlobalID": "{5110F4E8-F2F7-4AEC-9E6C-7E5F81989DBD}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452883268000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452883270000,
+    "Notes": null,
+    "OBJECTID": 4646
+   }
+  },
+  {
+   "geometry": {
+    "x": 416687.1978000002,
+    "y": 4027267.0793999992
+   },
+   "attributes": {
+    "Site_ID": "1637-B",
+    "SubPlot": "T-12",
+    "Date_Time": 1452877718000,
+    "Monitoring_Initials": "SR",
+    "Ridge_Spacing": 313,
+    "Furrom_Depth": 83,
+    "Interrow_Spacing": 497,
+    "Ridge_Height": 38,
+    "F1_pnt5to3": "6",
+    "F1_gt3": "0",
+    "F2_pnt5to3": "3",
+    "F2_gt3": "4",
+    "F3_pnt5to3": "2",
+    "F3_gt3": "4",
+    "GlobalID": "{76F51840-5585-4EFB-98F3-8E07CEC60E82}",
+    "created_user": "Owens_AGOL_User",
+    "created_date": 1452877732000,
+    "last_edited_user": "Owens_AGOL_User",
+    "last_edited_date": 1452877733000,
+    "Notes": null,
+    "OBJECTID": 4647
+   }
+  }
+ ]
+}

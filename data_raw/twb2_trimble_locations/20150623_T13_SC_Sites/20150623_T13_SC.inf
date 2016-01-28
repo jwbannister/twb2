@@ -1,0 +1,48 @@
+Setup Used:              Sample ESRI Shapefile Setup
+Export Format:           ESRI Shapefile
+Data Type:               Features
+Feature Selection:       Export All Features
+Not In Feature Positions:Not Used
+Export Notes:            No
+Export Velocity Records: No
+Export Sensor Records:   No
+Export Menu Attribute As:Attribute Value
+Generated Attributes:    GPS Time
+Position Filter Details: 
+Filter By:               GNSS Criteria
+Maximum PDOP:            Any
+Maximum HDOP:            Any
+Min Number Of SVs:       2D (3 or more measurements)
+Uncorrected:             No
+P(Y) Code:               Yes
+Real-time SBAS:          Yes
+Real-time Code:          Yes
+Postprocessed Code:      Yes
+Real-time Carrier Float: Yes
+Postprocessed Carrier Float:Yes
+RTK Fixed:               Yes
+Postprocessed Carrier Fixed:Yes
+Non-GNSS:                Yes
+Coordinate System:       UTM
+Coordinate Zone:         11 North
+Datum:                   NAD 1983 (Conus)
+Coordinate Units:        Meters
+Altitude Units:          Meters
+Altitude Reference:      MSL
+Geoid Model:             EGM96 (Global)
+Distance Units:          Feet
+Area Units:              Hectares
+Velocity Units:          Kilometers Per Hour
+Precision Units:         Meters
+                         
+Data Dictionary
+---------------
+Point_ge - Point Feature
+    Comment - String, Length = 32
+    GPS Time - Time
+Line_gen - Line Feature
+    Comment - String, Length = 32
+    GPS Time - Time
+Area_gen - Area Feature
+    Comment - String, Length = 32
+    GPS Time - Time
