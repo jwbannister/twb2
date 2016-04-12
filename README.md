@@ -1,3 +1,3 @@
 # twb2
 
-**depricatred into dustReport**
+**depricated into dustReport**
